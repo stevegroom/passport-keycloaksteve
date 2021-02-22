@@ -1,26 +1,25 @@
 {
-  "name": "passport-github",
+  "name": "passport-keycloaksteve",
   "version": "1.1.0",
-  "description": "GitHub authentication strategy for Passport.",
+  "description": "Keycloak authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "github",
+    "keycloak",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Steve copied Jared Hanson",
+    "email": "steverreg1n@groom.ch"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jaredhanson/passport-github.git"
+    "url": "https://github.com/stevegroom/passport-keycloaksteve.git "
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-github/issues"
+    "url": "http://github.com/stevegroom/passport-keycloaksteve/issues"
   },
   "license": "MIT",
   "licenses": [
